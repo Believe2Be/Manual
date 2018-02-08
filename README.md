@@ -14,16 +14,16 @@
 	```http://localhost```
 
 * Step 5: Test PHP
-  1. Create file:
+  - Create file:
 	```$ sudo nano /var/www/html/info.php```
 
-  2. Copy and Paste:
+  - Copy and Paste:
 	```php phpinfo();```
 
-  3. Restart Apache:
+  - Restart Apache:
 	```sudo service apache2 restart```
 
-  4. PHP is raedy:
+  - PHP is raedy:
 	```http://localhost/info.php```
 
 * Step 6: Install PHPMyAdmin
