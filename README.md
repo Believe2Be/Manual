@@ -1,4 +1,4 @@
-# Web Brother's Translations
+# Manual ru_RU
 
 Полностью настраиваемый веб-чат
 https://github.com/Believe2Be/Mowsar/blob/master/AJAX-Chat_ru_RU.md
