@@ -1,4 +1,4 @@
-#[frug / AJAX-Chat](http://frug.github.io/AJAX-Chat/) Manual - ru_RU
+[#frug / AJAX-Chat](http://frug.github.io/AJAX-Chat/) Manual - ru_RU
 
 Полностью настраиваемый веб-чат, реализованный в JavaScript, PHP и MySQL.
 Используя JavaScript, страница чата может быть обновлена ​​без перезагрузки всей страницы.
